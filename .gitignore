@@ -1,0 +1,10 @@
+# Downloaded documents — not stored in git
+documents/
+
+# Download progress tracking
+.download_progress.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
